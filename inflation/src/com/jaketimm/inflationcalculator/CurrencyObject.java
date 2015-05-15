@@ -5,6 +5,7 @@ public class CurrencyObject {
 	//sets the name of the currency object
 	public void setCurrencyName(String name)
 	{
+	//test
 		this.currencyName = name;
 	}
 	//returns the name of the currency
